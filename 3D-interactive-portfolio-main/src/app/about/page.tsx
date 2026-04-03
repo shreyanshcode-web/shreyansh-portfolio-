@@ -43,26 +43,26 @@ import { TbTerminal2 } from "react-icons/tb";
 const CONTACT_LINKS = [
   {
     name: "Email",
-    content: "abhijitzende75@gmail",
-    href: "mailto:abhijitzende75@gmail.com",
+    content: "shreyansh.singh.20.12.2005@gmail.com",
+    href: "mailto:shreyansh.singh.20.12.2005@gmail.com",
     icon: <FaEnvelope height={"50px"} />,
   },
   {
     name: "Phone",
-    content: "1234567890",
-    href: "tel:8308509180",
+    content: "+91 9453359700",
+    href: "tel:+919453359700",
     icon: <FaPhone height={"50px"} />,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/zende-abhijit/",
-    content: "/zende-abhijit",
+    href: "https://www.linkedin.com/in/shreyansh-singh-7-7-7-7-7-7-/",
+    content: "/shreyansh-singh-7-7-7-7-7-7-",
     icon: <FaLinkedin height={"50px"} />,
   },
   {
     name: "GitHub",
-    href: "https://github.com/Abhiz2411",
-    content: "/naresh-khatri",
+    href: "https://github.com/shreyanshcode-web",
+    content: "/shreyanshcode-web",
     icon: <FaGithub height={"50px"} />,
   },
 ];
@@ -251,9 +251,9 @@ function Page() {
                 />
               </div>
               <div className="flex flex-col gap-3 lg:items-center ml-10 md:ml-20 lg:ml-0">
-                <p className="text-center text-xl">Naresh Khatri</p>
+                <p className="text-center text-xl">Shreyansh Singh</p>
                 <div className="text-xs bg-zinc-700 w-fit px-3 py-1 rounded-full">
-                  Web Developer
+                  Data Entry Specialist | Aspiring Data Scientist
                 </div>
               </div>
             </div>
@@ -287,15 +287,17 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m Abhijit, a Comp. Sci. Engineer with 1.5 year experience in Devlopment, DevOps and 
-              Database management with hands-on experience in deploying & automating workflows, and 
-              collaborating with foreign clients. Strong analytical skills,effective communication,
-              and a team-oriented approach to driving process improvements and delivering results.
+              I&apos;m Shreyansh Singh, a detail-oriented data professional with hands-on
+              experience in data processing, cleaning, and analysis across multiple
+              real-world projects. I work with Excel, Python, SQL, and AI-driven systems
+              to build reliable workflows, automate repetitive work, and turn raw data
+              into clear, practical insights.
             </p>
             <p className="mb-10">
-              When I&apos;m not coding, you can find me [Your
-              Interests/Hobbies], exploring new technologies, or sipping coffee
-              while brainstorming my next project.
+              My recent work includes AI-based tools for coding assistance, financial
+              analysis, adaptive learning, and recommendation systems. I&apos;m currently
+              growing toward advanced data science and analytics while staying focused on
+              accuracy, problem-solving, and user-centered execution.
             </p>
             <h1 className="text-3xl mb-10 lg:md-20">Stuff I use</h1>
             <div className="mb-5">

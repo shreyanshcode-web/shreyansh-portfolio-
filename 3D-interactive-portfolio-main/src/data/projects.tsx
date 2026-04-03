@@ -902,7 +902,7 @@ const projects: Project[] = [
     title: "My Portfolio",
     src: "/assets/projects-screenshots/myportfolio/landing.png",
     screenshots: ["assets/projects-screenshots/myportfolio/landing.png"],
-    live: "https://www.abhijitzende.com/",
+    live: "https://www.SHREYANSH SINGH.com/",
     github:"https://github.com/Abhiz2411/3D-interactive-portfolio",
     skills: {
       frontend: [
